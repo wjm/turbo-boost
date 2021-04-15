@@ -1,0 +1,1 @@
+﻿python-telegram-bot==12.7
